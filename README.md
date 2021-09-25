@@ -10,7 +10,7 @@ Software a instalar:
 
     `wsl --install`
 
-    ![wsl_install](.\\images\powershell_wslinstall.JPG)
+    ![wsl_install](https://github.com/faroche/containers101/blob/main/images/powershell_wslinstall.JPG)
 
   - Reiniciar el equipo
 
