@@ -26,7 +26,7 @@ Software a instalar:
 
   - Ejecutar como administrador y seguir las instrucciones del instalador
 
-  <img src=".\images\dockerdesktop_finishsetup.JPG" style="zoom:50%;" />
+  <img src=".\images\dockerdesktop_finishsetup.JPG" style="zoom:40%;" />
 
   - Reiniciar el equipo
 
