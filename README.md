@@ -10,7 +10,7 @@ Software a instalar:
 
     `wsl --install`
 
-    ![](.\images\powershell_wslinstall.JPG)
+    ![WSL](.\images\powershell_wslinstall.JPG)
 
   - Reiniciar el equipo
 
@@ -26,7 +26,7 @@ Software a instalar:
 
   - Ejecutar como administrador y seguir las instrucciones del instalador
 
-  <img src="C:\Users\devops\Desktop\Container101\images\dockerdesktop_finishsetup.JPG" style="zoom:50%;" />
+  <img src=".\images\dockerdesktop_finishsetup.JPG" style="zoom:50%;" />
 
   - Reiniciar el equipo
 
