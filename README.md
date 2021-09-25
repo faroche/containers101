@@ -6,13 +6,13 @@ Software a instalar:
 
 1. Activar WSL en Windows 
 
-  - Correr en powershell (como administrador) el siguiente comando:
+    - Correr en powershell (como administrador) el siguiente comando:
 
-    `wsl --install`
+        `wsl --install`
 
     <img src=".\images\powershell_wslinstall.JPG" style="zoom:80%;" />)
 
-  - Reiniciar el equipo
+    - Reiniciar el equipo
 
 2. Descargas e Instalar Linux Kernel Update Package (como administrador) [Link](https://docs.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package)
 
