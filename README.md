@@ -10,7 +10,7 @@ Software a instalar:
 
     `wsl --install`
 
-    ![](.\\images\powershell_wslinstall.JPG)
+    ![wsl_install](.\\images\powershell_wslinstall.JPG)
 
   - Reiniciar el equipo
 
