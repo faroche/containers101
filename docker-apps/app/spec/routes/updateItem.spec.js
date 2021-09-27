@@ -21,6 +21,7 @@ test('it updates items correctly', async () => {
     expect(db.updateItem.mock.calls.length).toBe(1);
     expect(db.updateItem.mock.calls[0][0]).toBe(req.params.id);
     expect(db.updateItem.mock.calls[0][1]).toEqual({
+        name: 'New title',
         completed: false,
     });
 
