@@ -2,10 +2,10 @@ version: "3.7"
 
 services:
 
-#docker run -dp 3000:3000 --network todo-app -e MYSQL_HOST=mysql -e MYSQL_USER=root -e MYSQL_PASSWORD=secret -e MYSQL_DB=todos getting-started:v2
+#docker run -dp 3000:3000 --network todo-app -e MYSQL_HOST=mysql -e MYSQL_USER=root -e MYSQL_PASSWORD=secret -e MYSQL_DB=todos mi-primer-app:dev
 
   app:
-    image: pablokbs/getting-started:v2
+    image: mi-primer-app:dev
     ports:
       - 3000:3000
     environment:
