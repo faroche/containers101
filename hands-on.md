@@ -1,13 +1,22 @@
-#descargar una imagen o contenedor
+# Descargar una imagen o contenedor
+
+```powershell
 docker pull <nombre_imagen>
+```
 
-ej:
+Ejemplo: Descargar imagen oficial de PostgreSQL
+
+```powershell
 docker pull postgres
+```
 
+Se nos permite descarga diferentes versiones del contenedor, por medio de la etiqueta -> container_name:tag
+
+```powershell
 docker pull postgres:latest
 docker pull postgres:9.6
 docker pull postgres:9-alpine
-
+```
 
 #listar las imagenes o contendores descargados
 docker images
